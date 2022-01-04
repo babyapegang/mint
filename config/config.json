@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1BDbA7D8FcAB20e53795F38dB181b1c7E66490cF",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1BDbA7D8FcAB20e53795F38dB181b1c7E66490cF",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Baby Ape Gang",
+  "SYMBOL": "Baby Ape",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 8000000000000000000,
+  "DISPLAY_COST": 8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-ape-gang-official",
+  "SHOW_BACKGROUND": true
+}
